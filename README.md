@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/UsTRnWuD)
 # YellowBrickRoad (Week 1)
 
 _week 1 of ZCW_
@@ -23,31 +24,15 @@ They are not really language (java/python) dependent.
 Other repos that also need to be done.
 These are both Java and Python projects. You will do one or the other.
 
-- [ ] [DanDoBetters](https://github.com/ZipCodeCore/DanDoBetterDrills) strings and functions and oh my
-- [ ] [UsingReturn1](https://github.com/ZipCodeCore/UsingReturn1) wait return vs. print/println
-- [ ] [ParenSymmetry](https://github.com/ZipCodeCore/ParenSymmetry) doing some text processing
-- [ ] [CodeInterpreters](https://github.com/ZipCodeCore/CodeInterpreters.git) objects and interpreters
+- [ ] [DanDoBetters](https://github.com/ZCW-Summer25/DanDoBetterDrills) strings and functions and oh my
+- [ ] [UsingReturn1](https://github.com/ZCW-Summer25/UsingReturn1) wait return vs. print/println
+- [ ] [ParenSymmetry](https://github.com/ZCW-Summer25/ParenSymmetry) doing some text processing
+- [ ] [CodeInterpreters](https://github.com/ZCW-Summer25/CodeInterpreters.git) objects and interpreters
 
 ### Weekend Projects
 
-- [ScientificCalculator](https://github.com/ZipCodeCore/ScientificCalculator)
-- [Python.ScientificCalculator](https://github.com/ZipCodeCore/Python.ScientificCalculator)
-
-Java students will work on these projects:
-
-### Java Projects
-- [ ] Java/JavaSmall
-- [ ] Java/WordGuess
-
-Data (Python) students will work on these projects:
-
-### Python Projects
-
-- python: https://allendowney.github.io/ThinkPython/
-
-
-### Pipelines 1-4;
-- https://github.com/ZipCodeCore/PipelineOne (maybe next week)
+- [ScientificCalculator](https://github.com/ZCW-Summer25/ScientificCalculator)
+- [Python.ScientificCalculator](https://github.com/ZCW-Summer25/Python.ScientificCalculator)
 
 ## Blaze: zipcode's blogging engine
 
